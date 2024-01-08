@@ -17,12 +17,6 @@
 ## And more
 Feel free to discuss & to open an PR to add more interesting topics :)
 
-<!-- Star -->
-[![Star按钮](https://img.shields.io/github/stars/gao-hui/System-Design-Notes.svg?style=social)](https://github.com/gao-hui/System-Design-Notes/stargazers)
-
-<!-- Follow -->
-[![Follow按钮](https://img.shields.io/github/followers/gao-hui.svg?style=social)](https://github.com/gao-hui)
-
 
 <p align="center">
   <a href="https://github.com/gao-hui/System-Design-Notes/stargazers"><img alt="Star" src="https://img.shields.io/github/stars/gao-hui/System-Design-Notes.svg?style=social&label=Star"></a>
