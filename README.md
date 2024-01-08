@@ -1,5 +1,16 @@
 Webpage: https://gao-hui.github.io/System-Design-Notes
+
 Github: https://github.com/gao-hui/System-Design-Notes
+
+[Webpage](https://gao-hui.github.io/System-Design-Notes)
+
+[Github](https://github.com/gao-hui/System-Design-Notes)
+
+<!-- Star -->
+[![Star按钮](https://img.shields.io/github/stars/gao-hui/System-Design-Notes.svg?style=social)](https://github.com/gao-hui/System-Design-Notes/stargazers)
+
+<!-- Follow -->
+[![Follow按钮](https://img.shields.io/github/followers/gao-hui.svg?style=social)](https://github.com/gao-hui)
 
 ## Topics
 - [**Ads Click Prediction**](./ads-click-prediction/[System Design] Ads Click Prediction 1a28d29439f5484d98d2c4eb3d106243.md)
