@@ -1,4 +1,7 @@
-# System Design Notes
+---
+title: System Design Notes
+intro:
+---
 
 [Webpage](https://gao-hui.github.io/System-Design-Notes)
 
